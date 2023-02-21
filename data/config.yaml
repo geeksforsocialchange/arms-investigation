@@ -1,0 +1,28 @@
+name: wheresalice
+enableToc: true
+openToc: false
+enableLinkPreview: true
+enableLatex: true
+enableCodeBlockTitle: true
+enableCodeBlockCopy: true
+enableCallouts: true
+enableSPA: true
+enableFooter: true
+enableContextualBacklinks: true
+enableRecentNotes: false
+enableGitHubEdit: true
+enableMermaid: true
+GitHubLink: https://github.com/wheresalice/arms-investigation/tree/hugo/content
+search:
+  enableSemanticSearch: false
+  operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
+  operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
+description:
+  A collection of information about Manchester based arms dealers
+page_title:
+  "Manchester Arms Investigation"
+links:
+  - link_name: Twitter
+    link: https://twitter.com/aliceconsortium
+  - link_name: GitHub
+    link: https://github.com/wheresalice
