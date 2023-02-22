@@ -4,7 +4,7 @@ tags:
 - company
 - arms dealer
 ---
-“Raytheon is fourth in SIPRI’s list of the top 100 arms companies. Its website describes its Missile Systems business as “the world’s premier missile maker, providing defensive and offensive weapons for air, land, sea and space”. The company has multiple sites across the UK.” (CAAT).
+“Raytheon is fourth in SIPRI’s list of the top 100 arms companies. Its website describes its Missile Systems business as “the world’s premier missile maker, providing defensive and offensive weapons for air, land, sea and space”. The company has multiple sites across the UK.” ([[CAAT]]).
 
 Looks like they have a big academy in Mcr:
 

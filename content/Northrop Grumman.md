@@ -20,6 +20,7 @@ Based in [[Capstan House]] (the same building as [[Naimuri]])
 
 [https://www.northropgrumman.com/wp-content/uploads/Northrop-Grumman-Helps-to-Improve-Cyber-Resilience-in-Greater-Manchester.pdf](https://www.northropgrumman.com/wp-content/uploads/Northrop-Grumman-Helps-to-Improve-Cyber-Resilience-in-Greater-Manchester.pdf) 
 
+Founding partner of the [[Cyber Resilience Centre]]
   
 
 Exhibiting at [[DSEI]] 2021 as themselves and as Northrop Grumman LITEF

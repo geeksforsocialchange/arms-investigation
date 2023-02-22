@@ -8,7 +8,7 @@ Private security firm complicit in waterbording torture in Abu Ghraib. Acquitted
 
   
 
-Exhibiting at [[￼DSEI]] 2021
+Exhibiting at [[DSEI]] 2021
 
   
 

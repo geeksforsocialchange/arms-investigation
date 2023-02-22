@@ -6,7 +6,7 @@ tags:
 
 > From Aerospace, Space, Defence to Security & Transportation, Thales helps its customers to create a safer world by giving them the tools they need	
 
-Another huge arms company, not sure why CAAT don’t list them. Partnership with UoM.
+Another huge arms company, not sure why [[CAAT]] don’t list them. Partnership with [[University of Manchester]].
 
 > “Our maritime business specialises in sonar systems for submarines, surface warships, and aircraft as well as communications masts and systems for submarines. We also have a large team working for our UK transportation business. Thales’s tram management system will enable Greater Manchester’s Metrolink project to take five million car journeys off local roads every year and increase the number of trips passengers made on the network each day from 55,000 to over 90,000.”
 

@@ -8,6 +8,6 @@ title: MIDAS
 
   
 
-> “The region’s supply chain, talent and access to market are why businesses such as [[Jaguar Land Rover]], ARM, AECOM, [[BAE Systems]], Balfour Beatty, Cargill, Heinz, Hitachi, Jacobs Engineering, Kellogg’s, NXP, Siemens, Unilever and WSP Parsons Brinckerhoff have a presence here.”
+> “The region’s supply chain, talent and access to market are why businesses such as [[Jaguar Land Rover]], ARM, AECOM, [[BAE Systems]], Balfour Beatty, Cargill, Heinz, Hitachi, [[Jacobs]] Engineering, Kellogg’s, NXP, Siemens, Unilever and WSP Parsons Brinckerhoff have a presence here.”
   
 [https://www.investinmanchester.com/about-us/midas](https://www.investinmanchester.com/about-us/midas)
