@@ -1,4 +1,4 @@
-name: wheresalice
+name: gfsc
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -12,7 +12,7 @@ enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
 enableMermaid: true
-GitHubLink: https://github.com/wheresalice/arms-investigation/tree/hugo/content
+GitHubLink: https://github.com/geeksforsocialchange/arms-investigation/tree/hugo/content
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
@@ -23,6 +23,6 @@ page_title:
   "Manchester Arms Investigation"
 links:
   - link_name: Twitter
-    link: https://twitter.com/aliceconsortium
+    link: https://twitter.com/gfscstudio
   - link_name: GitHub
-    link: https://github.com/wheresalice
+    link: https://github.com/geeksforsocialchange/arms-investigation
