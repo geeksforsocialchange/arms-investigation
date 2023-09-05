@@ -2,6 +2,7 @@
 title: MAK Technologies
 tags:
 - company
+- dsei-exhibitor-2021
 ---
 Modeling and simulation software
 

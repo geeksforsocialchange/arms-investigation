@@ -2,6 +2,10 @@
 title: Atec
 tags:
 - company
+- dsei-exhibitor-2023
+- dsei-exhibitor-2021
+aliases:
+- Atec Engineering Solutions
 ---
 
 Delivering specialist support solutions for high reliability and safety critical products and systems.
@@ -12,6 +16,7 @@ Based in Worsley, Manchester
 
 Reg Number: 05087739 | VAT: GB844265715
 
-Exhibiting at [[DSEI]] 2021
+- Exhibiting at [[DSEI]] 2021
+- Exhibiting at [[DSEI]] 2023
   
 [https://www.atec.solutions/](https://www.atec.solutions/)

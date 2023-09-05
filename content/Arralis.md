@@ -2,6 +2,7 @@
 title: Arralis
 tags:
 - company
+- dsei-exhibitor-2021
 ---
 
 We are a leader in advanced millimeter-wave technology. We serve the communications, satellite, aerospace and defence markets.

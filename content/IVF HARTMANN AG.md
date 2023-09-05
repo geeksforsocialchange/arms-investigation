@@ -1,5 +1,8 @@
 ---
 title: IVF HARTMANN AG
+tgs:
+- dsei-exhibitor-2021
+- company
 ---
 
 one of the leading Swiss companies in the field of medical consumer goods for 150 years
