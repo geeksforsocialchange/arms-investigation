@@ -3,6 +3,8 @@ title: Northrop Grumman
 tags:
 - company
 - arms dealer
+- dsei-exhibitor-2023
+- dsei-exhibitor-2021
 ---
 Seem to literally make nukes??
 
@@ -23,4 +25,18 @@ Based in [[Capstan House]] (the same building as [[Naimuri]])
 Founding partner of the [[Cyber Resilience Centre]]
   
 
-Exhibiting at [[DSEI]] 2021 as themselves and as Northrop Grumman LITEF
+- Exhibiting at [[DSEI]] 2021 as themselves and as Northrop Grumman LITEF
+- Exhibiting at [[DSEI]] 2023 as Northrop Grumman and Northrop Grumman LITEF GMBH
+
+LITEF is one of the leading companies in the development and manufacturing of navigation and sensor systems. The company's expertise is based on German technology for mechanical, fibre optic and micro-electro-mechanical inertial sensors. This enables ITAR-free distribution of LITEF products around the globe.
+
+2980 Fairview Park Drive  
+Falls Church  
+Virginia  
+22042  
+United States
+
+Loerracher Strasse 18  
+Freiburg  
+79115  
+Germany

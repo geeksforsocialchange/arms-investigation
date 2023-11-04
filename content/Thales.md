@@ -2,6 +2,8 @@
 title: Thales
 tags:
 - company
+- dsei-exhibitor-2023
+- dsei-exhibitor-2021
 ---
 
 > From Aerospace, Space, Defence to Security & Transportation, Thales helps its customers to create a safer world by giving them the tools they need	
@@ -26,3 +28,5 @@ They are also sponsoring events with the Co-op & [[GCHQ]] to get children and wo
 [https://northcoders.com/company/blog/were-sponsoring-manchesters-all-female-youth-hack](https://northcoders.com/company/blog/were-sponsoring-manchesters-all-female-youth-hack) 
 
 Exhibiting at [[DSEI]] 2021 as Thales and as “Thales UK | National Digital Exploitation Centre & Resilient Works” (which is in Wales)
+
+Exhibiting at [[DSEI]] 2023 as Thales, Thales Australia Limited, and Thales Norway AS

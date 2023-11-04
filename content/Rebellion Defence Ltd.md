@@ -3,6 +3,7 @@ title: Rebellion Defence Ltd
 tags:
 - company
 - arms dealer
+- dsei-exhibitor-2021
 ---
 mission-focused AI products for the defence and security of the United Kingdom, the United States, and our allies.
 

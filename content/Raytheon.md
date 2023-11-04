@@ -3,6 +3,8 @@ title: Raytheon
 tags:
 - company
 - arms dealer
+- dsei-exhibitor-2023
+- dsei-exhibitor-2021
 ---
 “Raytheon is fourth in SIPRI’s list of the top 100 arms companies. Its website describes its Missile Systems business as “the world’s premier missile maker, providing defensive and offensive weapons for air, land, sea and space”. The company has multiple sites across the UK.” ([[CAAT]]).
 
@@ -18,4 +20,11 @@ Raytheon were also part of Trusted Borders consortium which led the Joint Border
 
   
 
-Exhibiting at [[DSEI]] 2021 as Raytheon Technologies
+- Exhibiting at [[DSEI]] 2021 as Raytheon Technologies
+- Exhibiting at [[DSEI]] 2023 as Raytheon UK
+
+Queensway Industrial Estate, Fullerton Rd  
+Glenrothe  
+Fife  
+KY7 5PY  
+United Kingdom

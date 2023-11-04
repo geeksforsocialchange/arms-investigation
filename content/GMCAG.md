@@ -11,7 +11,7 @@ They are very keen to put arms firms front and centre:
 
   
 
-[[Arm]], [[BAE Systems]], Barclays, Beyond Trust, [[Coalfire]], Code Your Future, DCMS, [[Deloitte]], [[DIT]], [[F-secure]], [[GCHQ]], GM Health and Social Care Partnership, Greater Manchester AI Foundry, Greater Manchester Combined Authority, Greater Manchester Cyber Foundry, Greater Manchester Police, Greater Manchester Resilience Unit , iNetwork, KPMG, Lancaster University, Manchester City Council , Manchester Digital, Manchester Metropolitan University, [[MIDAS]], Mike Blackburn, Chair Marketing Manchester, Ministry of Housing, Communities & Local Government, [[Manchester Science Park]], NCC, NCSC, [[Raytheon]] , Salford City Council , Secarma, [[The Growth Company]] , The Landing, Transport for Greater Manchester, [[University of Manchester]] , [[University of Salford]], UP Accelerator
+[[Arm]], [[BAE Systems]], Barclays, Beyond Trust, [[Coalfire]], Code Your Future, DCMS, [[Deloitte]], [[DIT]], [[F-secure]], [[GCHQ]], GM Health and Social Care Partnership, Greater Manchester AI Foundry, Greater Manchester Combined Authority, Greater Manchester Cyber Foundry, Greater Manchester Police, Greater Manchester Resilience Unit , iNetwork, KPMG, Lancaster University, Manchester City Council , Manchester Digital, Manchester Metropolitan University, [[MIDAS]], Mike Blackburn, Chair Marketing Manchester, Ministry of Housing, Communities & Local Government, [[Manchester Science Park]], [[ncc-group|NCC]], NCSC, [[Raytheon]] , Salford City Council , [[secarma-limited|Secarma]], [[The Growth Company]] , The Landing, Transport for Greater Manchester, [[University of Manchester]] , [[university-of-salford|University of Salford]], UP Accelerator
 
 | Company | Sector | Website |
 | ---- | ---- | ---- |
@@ -42,14 +42,14 @@ They are very keen to put arms firms front and centre:
 | Mike Blackburn, Chair Marketing Manchester | Tourism |
 | Ministry of Housing, Communities & Local Government | Government |
 | [[Manchester Science Park]] (MSP) | Business growth |
-| NCC | Cybersecurity |
+| [[ncc-group|NCC]] | Cybersecurity |
 | NCSC | Cybersecurity | https://www.ncsc.gov.uk/ |
 | [[Raytheon]] | Arms |
 | Salford City Council | Government	|
-| Secarma | Cybersecurity | https://www.secarma.com/ |
+| [[secarma-limited|Secarma]] | Cybersecurity | https://www.secarma.com/ |
 | [[The Growth Company]] | Business growth |
 | The Landing | Innovation | https://www.thelanding.org.uk/ 
 | Transport for Greater Manchester | Transport |
 | [[University of Manchester]] | Education |
-| [[University of Salford]] | Education	|
+| [[university-of-salford|University of Salford]] | Education	|
 | UP Accelerator | Innovation | https://www.upventuresgroup.com/ |

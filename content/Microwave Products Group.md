@@ -2,6 +2,7 @@
 title: Microwave Products Group
 tags:
 - company
+- dsei-exhibitor-2021
 ---
 mission-critical engineered electronic components and subsystems
 

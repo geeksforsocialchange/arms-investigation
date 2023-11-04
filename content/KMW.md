@@ -2,6 +2,7 @@
 title: KMW
 tags:
 - company
+- dsei-exhibitor-2021
 ---
 European market leader for highly protected wheeled and tracked vehicles
 

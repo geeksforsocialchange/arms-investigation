@@ -2,6 +2,8 @@
 title: Microlise
 tags:
 - company
+- dsei-exhibitor-2023
+- dsei-exhibitor-2021
 ---
 
 > When your groceries arrive at your door or you sign for your online parcel, one or more of our  software, telematics or proof-of-purchase solutions has probably been used. Our solutions  deliver value to many of the UK’s leading grocery retailers and food logistics providers as well as  to household names including JCB, Eddie Stobart, Carlsberg, Waitrose and Royal Mail.
@@ -9,4 +11,11 @@ tags:
 
 One job advert for a microlise engineer in Wigan
 
-[[DSEI]] exhibitor 2021
+- [[DSEI]] exhibitor 2021
+- [[DSEI]] exhibitor 2023
+
+Farrington Way  
+Eastwood  
+Nottinghamshire  
+NG16 3AG  
+United Kingdom

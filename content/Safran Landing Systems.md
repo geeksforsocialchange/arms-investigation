@@ -1,5 +1,9 @@
 ---
 title: Safran Landing Systems
+tags:
+- company
+- dsei-exhibitor-2023
+- dsei-exhibitor-2021
 ---
 
 Have had a place in Burnley since the 1940s. Part of govt-funded [[Made Smarter]] Technology Accelerator with [[BAE Systems]] and Babcock Intl.
@@ -13,3 +17,10 @@ Have had a place in Burnley since the 1940s. Part of govt-funded [[Made Smarter]
   
 
 Exhibiting at [[DSEI]] 2021 as Safran Electronics & Defense
+Exhibiting at [[DSEI]] 2023 as Safran Electronics & Defense
+
+Safran Electronics & Defense  
+2 boulevard du Général Martial Valin  
+Paris  
+75015  
+France

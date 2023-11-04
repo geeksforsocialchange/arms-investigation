@@ -3,6 +3,7 @@ title: Elbit Ferranti
 tags:
 - arms dealer
 - company
+- dsei-exhibitor-2023
 ---
 Company that exports drones to Israel used to bomb Palestinians. Various campaigns against this. Based in Oldham.
 
@@ -21,3 +22,11 @@ Elbit produces 85% of all drones (Unmanned Aerial Vehicles, UAV) used by the Isr
   
 
 [https://www.ferranti-technologies.co.uk/](https://www.ferranti-technologies.co.uk/)
+
+- Exhibiting at [[DSEI]] 2023 as Elbit
+
+Po Box 539  
+Haifa  
+Haifa District  
+31053  
+Israel

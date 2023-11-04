@@ -2,6 +2,8 @@
 title: QinetiQ
 tags:
 - company
+- dsei-exhibitor-2023
+- dsei-exhibitor-2021
 ---
 > We are a world-centre of excellence in research and development, and act as catalyst for fast-track innovation, offering outstanding experimentation facilities, technical, engineering and scientific expertise. The land, sea and air ranges we operate are some of the most advanced in the world.
 
@@ -28,4 +30,11 @@ Bought tech firm [[Naimuri]] in 2020 for 25m
 
   
 
-Exhibiting at [[DSEI]] 2021
+- Exhibiting at [[DSEI]] 2021
+- Exhibiting at [[DSEI]] 2023 as QinetIQ Ltd
+
+Cody Technology ParkIvely Road  
+Farnborough  
+Hampshire  
+GU14 0LX  
+United Kingdom

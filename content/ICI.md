@@ -1,5 +1,7 @@
 ---
 title: ICI
+tags:
+- company
 ---
 Orica Explosives Depot
 
