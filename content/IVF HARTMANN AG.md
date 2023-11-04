@@ -1,6 +1,6 @@
 ---
 title: IVF HARTMANN AG
-tgs:
+tags:
 - dsei-exhibitor-2021
 - company
 ---

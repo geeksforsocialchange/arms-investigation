@@ -4,6 +4,7 @@ location:
 tags:
 - company
 - dsei-exhibitor-2023
+location: [53.492452,-2.5178961]
 ---
 
 - [[DSEI]] exhibitor 2023

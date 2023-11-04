@@ -1,7 +1,17 @@
 ---
 title: Naimuri
 tags:
-- company
+  - company
+  - security-policing-2018
+address: |-
+  Capstan House
+  33-35 Broadway
+  Salford
+  Greater Manchester
+  M50 2UW
+  United Kingdom
+country: GB
+location: [53.47581169999999,-2.294937]
 ---
 Bought by Qinetiq in 2020. 
 
@@ -24,3 +34,4 @@ The statement from [[QinetiQ]], which claims to offer "world-class scientific an
   
 
 Naimuri employs around 70 people with its headquarters and main facility in Manchester. It also has an office in St Helens.
+
